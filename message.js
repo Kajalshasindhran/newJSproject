@@ -6,7 +6,7 @@ function message() {
     }
 
     else if (num === 2) {
-        return "You are never too old to set another goal or to dream a new dream"
+        return "You are never too old to set another goal or to dream a new dreams"
     }
 
     else if (num === 3) {
